@@ -3,4 +3,4 @@ Time series data is everywhere, from watching your stock portfolio to monitoring
 
 The original dataset is available from the British Oceanographic Data Center here and you can read all about this fascinating archival story in this article from the Nature journal.
 
-Here's a map of the locations of the tidal gauges along the River Thames in London.
+
